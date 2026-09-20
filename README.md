@@ -34,6 +34,8 @@ python speedtest.py "https://example.com/large-file.jpg"
 
 Для корректного измерения рекомендуется использовать достаточно большой файл.
 
+Например: https://floatingworld.com/wp-content/uploads/2023/02/Sample-jpg-image-30mb-16.jpg
+
 ## Пример
 
 ```text
